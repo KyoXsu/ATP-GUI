@@ -4,7 +4,7 @@
 ATP est un logiciel de configuration automatique de téléphones portables.
 (A suivre).
 
-## Comment compiler l'application avec Jlink et Jpackage 
+## Compiler le projet pour MacOs
 
 D'abord je dois compiler mes classes, je peux le faire avec intellij idea ou à l'aide de la commande suivante : (à revoir)
 ```
@@ -45,7 +45,7 @@ jpackage \
   --vendor ""
 ```
 
-##  Pour windows
+##  Compiler le projet pour Windows
 
 Pour compiler l'installeur msi, il faut télécharger les outils wix.
 

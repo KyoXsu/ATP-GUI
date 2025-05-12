@@ -47,7 +47,8 @@ jpackage \
 
 ##  Compiler le projet pour Windows
 
-Pour compiler l'installeur msi, il faut télécharger les outils wix.
+Pour compiler l'installeur msi, il faut télécharger les [outils wix](https://github.com/wixtoolset/wix3/releases/tag/wix3141rtm).
+
 
 La commande pour créer le jre nécéssaire :
 ```
